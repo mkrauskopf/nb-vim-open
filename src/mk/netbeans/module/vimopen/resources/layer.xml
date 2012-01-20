@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.1//EN" "http://www.netbeans.org/dtds/filesystem-1_1.dtd">
+<filesystem>
+
+  <folder name="Editors">
+    <folder name="text">
+      <folder name="x-java">
+        <folder name="Popup">
+          <file name="SeparatorAfterOW.instance">
+            <attr name="instanceClass" stringvalue="javax.swing.JSeparator"/>
+          </file>
+          <attr name="mk-netbeans-module-vimopen-VimOpenAction.shadow/SeparatorAfterOW.instance" boolvalue="true"/>
+          <attr name="SeparatorAfterOW.instance/generate-goto-popup" boolvalue="true"/>
+        </folder>
+      </folder>
+    </folder>
+  </folder>
+
+  <folder name="Toolbars">
+    <folder name="File">
+      <file name="mk-netbeans-module-openwith-VimOpenAction.shadow">
+        <attr name="originalFile" stringvalue="Actions/Tools/mk-netbeans-module-openwith-VimOpenAction.instance"/>
+      </file>
+    </folder>
+  </folder>
+
+  <folder name="Loaders">
+    <folder name="text">
+      <folder name="x-java">
+        <folder name="Actions">
+          <attr name="OpenAction.instance/mk-netbeans-module-openwith-VimOpenAction.shadow" boolvalue="true"/>
+          <file name="mk-netbeans-module-openwith-VimOpenAction.shadow">
+            <attr name="originalFile" stringvalue="Actions/Tools/mk-netbeans-module-openwith-VimOpenAction.instance"/>
+          </file>
+          <attr name="mk-netbeans-module-openwith-VimOpenAction.shadow/java-project-separator-1.instance" boolvalue="true"/>
+          <attr name="mk-netbeans-module-openwith-VimOpenAction.shadow/FileSystemAction.instance" boolvalue="true"/>
+          <attr name="mk-netbeans-module-openwith-VimOpenAction.shadow/Separator3.instance" boolvalue="true"/>
+        </folder>
+      </folder>
+    </folder>
+  </folder>
+
+</filesystem>

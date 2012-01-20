@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: mk.netbeans.module.vimopen/1
+OpenIDE-Module-Layer: mk/netbeans/module/vimopen/resources/layer.xml
+OpenIDE-Module-Localizing-Bundle: mk/netbeans/module/vimopen/resources/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.4
