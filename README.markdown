@@ -11,7 +11,7 @@ Installation
 1. clone [repository](http://github.com/mkrauskopf/nb-vim-open)
 2. open `nb-vim-open` module in NetBeans
 3. right-click `Vim Open` node in project explorer and select `Create NBM`.
-
+4. install the NBM via NetBeans plugin manager (`Tools` -> `Plugins`)
 
 Usage
 -----
